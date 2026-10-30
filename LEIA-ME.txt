@@ -1,0 +1,23 @@
+SITE — LOURENÇO'S BROKERS
+========================
+
+Esta pasta é o site completo. Ela contém:
+  index.html   a página do site
+  dados.json   os imóveis publicados e os dados da corretoria
+  img/         logotipo e fotos dos imóveis
+
+PUBLICAR NO NETLIFY (primeira vez)
+1. Descompacte este arquivo .zip.
+2. Entre em https://app.netlify.com/drop
+3. Arraste a PASTA descompactada para a área indicada.
+4. O Netlify gera o endereço do site. Depois você pode trocar o nome ou ligar um domínio próprio em "Domain management".
+
+ATUALIZAR O SITE
+1. No sistema, cadastre ou altere os imóveis e as fotos. Só aparecem no site os imóveis marcados como "Exibir no site" e com situação "Disponível".
+2. Em Ajustes, clique em "Exportar site para Netlify" e baixe o novo .zip.
+3. Descompacte e, no Netlify, abra o site > Deploys > arraste a nova pasta para a área de deploy manual.
+
+OBSERVAÇÕES
+- Não abra o index.html com duplo clique: o navegador bloqueia a leitura do dados.json. Use o endereço do Netlify.
+- Os dados de contatos, contratos e recibos NÃO vão para o site. Só entram os dados públicos dos imóveis (sem endereço completo, matrícula ou proprietário).
+- Cada imóvel tem um link próprio: endereco-do-site/#imovel-JAC-001

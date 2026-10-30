@@ -1,0 +1,34 @@
+{
+ "config": {
+  "nome": "Lourenço's Brokers Soluções Imobiliárias",
+  "creci": "CRECI 042384-J",
+  "telefone": "",
+  "email": "",
+  "endereco": "",
+  "cidade": "Jacareí",
+  "headline": "Seu imóvel em Jacareí, com atendimento de quem conhece a cidade.",
+  "sobre": "Venda, locação e terrenos em Jacareí e região do Vale do Paraíba.",
+  "botSaudacao": "Olá! Sou o assistente virtual da {nome}. Vou fazer algumas perguntas rápidas para encontrar o imóvel certo para você."
+ },
+ "imoveis": [
+  {
+   "codigo": "JAC-001",
+   "titulo": "Sobrado de 2 dormitórios no bairro Lagoa Azul em Jacareí/SP",
+   "finalidade": "ambos",
+   "tipo": "Sobrado",
+   "bairro": "Lagoa Azul",
+   "cidade": "Jacareí",
+   "quartos": 2,
+   "banheiros": 1,
+   "vagas": 1,
+   "valor_venda": 105000,
+   "valor_aluguel": 770,
+   "descricao": "🏡 Sobrado no Lagoa Azul, em Jacareí, para você morar ou investir!\n\nProcurando um imóvel para vender ou alugar com ótimo custo-benefício? Olha só essa oportunidade:\n\n✔ Sobrado no bairro Lagoa Azul\n✔ 2 dormitórios\n✔ 1 banheiro\n✔ 1 vaga de garagem\n✔ Venda: R$ 105.000,00\n✔ Locação: R$ 770,00 por mês\n\n📲 Fale agora com a Lourenço's Brokers Soluções Imobiliárias e agende sua visita!\n\n#Jacareí #LagoaAzul #Sobrado #ImóveisJacareí #CasaAVendaJacareí",
+   "destaque": false,
+   "fotos": [
+    "img/jac-001-1.jpg"
+   ]
+  }
+ ],
+ "geradoEm": "2026-10-30T01:52:52.617Z"
+}
