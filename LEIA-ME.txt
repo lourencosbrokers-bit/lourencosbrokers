@@ -1,23 +1,5 @@
-SITE — LOURENÇO'S BROKERS
-========================
+APLICATIVO DE VISTORIA - LOURENCO'S BROKERS (versao atualizada)
 
-Esta pasta é o site completo. Ela contém:
-  index.html   a página do site
-  dados.json   os imóveis publicados e os dados da corretoria
-  img/         logotipo e fotos dos imóveis
-
-PUBLICAR NO NETLIFY (primeira vez)
-1. Descompacte este arquivo .zip.
-2. Entre em https://app.netlify.com/drop
-3. Arraste a PASTA descompactada para a área indicada.
-4. O Netlify gera o endereço do site. Depois você pode trocar o nome ou ligar um domínio próprio em "Domain management".
-
-ATUALIZAR O SITE
-1. No sistema, cadastre ou altere os imóveis e as fotos. Só aparecem no site os imóveis marcados como "Exibir no site" e com situação "Disponível".
-2. Em Ajustes, clique em "Exportar site para Netlify" e baixe o novo .zip.
-3. Descompacte e, no Netlify, abra o site > Deploys > arraste a nova pasta para a área de deploy manual.
-
-OBSERVAÇÕES
-- Não abra o index.html com duplo clique: o navegador bloqueia a leitura do dados.json. Use o endereço do Netlify.
-- Os dados de contatos, contratos e recibos NÃO vão para o site. Só entram os dados públicos dos imóveis (sem endereço completo, matrícula ou proprietário).
-- Cada imóvel tem um link próprio: endereco-do-site/#imovel-JAC-001
+ATUALIZAR: no Netlify, abra o MESMO site de antes > Deploys > arraste esta pasta. As vistorias ja salvas no celular sao mantidas.
+Depois, feche e abra o app no celular (se nao mudar de primeira, abra de novo).
+A logo e os dados da Lourenco's ja vem preenchidos; podem ser trocados em Ajustes.
